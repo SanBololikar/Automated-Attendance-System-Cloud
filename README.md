@@ -46,5 +46,5 @@ A professional-grade facial recognition system that authenticates users and logs
 4. Generating Reports: Run "python reports.py" and choose between 1-day or 7-day summary.
 
 ---
-Developer: Sanket Bololikar
-Project Objective: Automate and digitize attendance management using Cloud and AI.
+## Developer: Sanket Bololikar.
+### Project Objective: Automate and digitize attendance management using Cloud and AI.
